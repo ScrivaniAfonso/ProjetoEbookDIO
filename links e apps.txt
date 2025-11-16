@@ -1,0 +1,9 @@
+Links e aplicativos utilizados para a criação do podcast:
+
+https://claude.ai/ : a IA principal utilizada para a geração de textos. Faço uso da versão paga,
+considero-a excelente para a criação de textos humanizados.
+
+https://venngage.com/ : A IA utilizada para a geração automático do Ebook. Adiantei a criação dos
+slides com ele, sem deixar de utilizar o PowerPoint para a edição.
+
+PowerPoint : a aplicação utilizada para a edição do Ebook.
